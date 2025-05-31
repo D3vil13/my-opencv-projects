@@ -1,2 +1,10 @@
-# my-opencv-projects
-Collection of mini OpenCV projects (30-day challenge)
+My OpenCV Projects
+
+Welcome to my collection of computer vision projects using OpenCV.
+
+Projects
+
+> 🔸 [Yellow Object Detection](./yellow-object-detect)  
+
+
+I'm building one mini project each day for the next 30 days.
