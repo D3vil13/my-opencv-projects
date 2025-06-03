@@ -5,6 +5,7 @@ Welcome to my collection of computer vision projects using OpenCV.
 Projects
 
 > 🔸[Yellow Object Detection](https://github.com/D3vil13/my-opencv-projects/tree/yellow-object-detect)
+> 🔸[face-anonymizer](https://github.com/D3vil13/my-opencv-projects/tree/face-anonymizer)
 
 
 
