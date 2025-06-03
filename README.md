@@ -5,14 +5,6 @@ Built with OpenCV and MediaPipe.
 
 ---
 
-
-
-https://github.com/D3vil13/my-opencv-projects/assets/demo-face-anonymizer.gif 
-
----
-
-
-
 - Real-time webcam face detection
 - Automatic anonymization using blurring
 - Lightweight and runs locally
