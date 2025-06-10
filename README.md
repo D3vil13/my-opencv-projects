@@ -10,6 +10,10 @@ This project extracts deep visual features from images using `img2vec-pytorch`, 
 - **Training** a `RandomForestClassifier` on your custom dataset  
 - **Inference** on new images with a saved model
 
+
+## Included Dataset
+
+The dataset is included in this repository under the `datasetfinal.zip` folder.
 ---
 
 ## 🚀 Installation
