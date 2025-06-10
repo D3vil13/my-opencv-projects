@@ -1,13 +1,20 @@
-My OpenCV Projects
+# 📸 Feature Extraction & Classification
 
-Welcome to my collection of computer vision projects using OpenCV.
+This project extracts deep visual features from images using `img2vec-pytorch`, trains a Random Forest classifier, and runs inference on new photos you’ve taken.
 
-Projects
+---
 
-> 🔸[Yellow Object Detection](https://github.com/D3vil13/my-opencv-projects/tree/yellow-object-detect)<br>
-> 🔸[face-anonymizer](https://github.com/D3vil13/my-opencv-projects/tree/face-anonymizer)<br>
-> 🔸[image-classifier](https://github.com/D3vil13/my-opencv-projects/tree/image-classifier)<br>
+## 🧠 Features
 
+- **Feature extraction** using a pretrained CNN via `img2vec-pytorch`  
+- **Training** a `RandomForestClassifier` on your custom dataset  
+- **Inference** on new images with a saved model
 
+---
 
-I'm building one mini project each day for the next 30 days.
+## 🚀 Installation
+
+1. Clone or download this folder:  
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/feature-extractor.git
+   cd feature-extractor

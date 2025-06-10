@@ -1,0 +1,4 @@
+torch
+img2vec-pytorch
+Pillow
+scikit-learn
