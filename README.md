@@ -13,7 +13,7 @@ This project extracts deep visual features from images using `img2vec-pytorch`, 
 
 ## Included Dataset
 
-The dataset is included in this repository under the `datasetfinal.zip` folder.
+The dataset is included and can be downloaded from [here](https://drive.google.com/file/d/1fxo-EgfCtddyqJTG9dEO52VGSRoQkOLC/view?usp=sharing)
 ---
 
 ## 🚀 Installation
