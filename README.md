@@ -1,14 +1,24 @@
-My OpenCV Projects
+# Hand Gesture Volume Controller (Logarithmic Scaling)
 
-Welcome to my collection of computer vision projects using OpenCV.
+This is the fifth project in my 30-day Computer Vision challenge.
 
-Projects
+The application uses your webcam to detect hand gestures (thumb and index finger distance) to control your system volume. The volume scaling is implemented using a **logarithmic mapping** for more natural audio perception.
 
-> 🔸[Yellow Object Detection](https://github.com/D3vil13/my-opencv-projects/tree/yellow-object-detect)<br>
-> 🔸[face-anonymizer](https://github.com/D3vil13/my-opencv-projects/tree/face-anonymizer)<br>
-> 🔸[image-classifier](https://github.com/D3vil13/my-opencv-projects/tree/image-classifier)<br>
-> 🔸[feature-extraction-n-classification](https://github.com/D3vil13/my-opencv-projects/tree/feature-extraction-n-classification)<br>
+---
 
+## 🔧 Features
 
+- Real-time webcam feed
+- Hand landmark detection using MediaPipe
+- Distance between thumb and index finger controls volume
+- Logarithmic scaling of volume to better match human hearing
+- Visual feedback with FPS and volume bar
 
-I'm building one mini project each day for the next 30 days.
+---
+
+## 📦 Requirements
+
+Install the required libraries using the `requirements.txt` file:
+
+```bash
+pip install -r requirements.txt
