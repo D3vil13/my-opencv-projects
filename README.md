@@ -8,6 +8,7 @@ Projects
 > 🔸[face-anonymizer](https://github.com/D3vil13/my-opencv-projects/tree/face-anonymizer)<br>
 > 🔸[image-classifier](https://github.com/D3vil13/my-opencv-projects/tree/image-classifier)<br>
 > 🔸[feature-extraction-n-classification](https://github.com/D3vil13/my-opencv-projects/tree/feature-extraction-n-classification)<br>
+> 🔸[Hand-Gesture-Volume-Controller](https://github.com/D3vil13/my-opencv-projects/tree/Hand-Gesture-Volume-Controller)<br>
 
 
 
